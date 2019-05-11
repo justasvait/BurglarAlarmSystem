@@ -1,0 +1,532 @@
+# depslib dependency file v1.0
+1487527133 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\main.cpp
+	<string>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<iostream>
+	"WindowSensor.h"
+	"VibrationSensor.h"
+	"MagneticSensor.h"
+	"DoorSensor.h"
+	"GarageDoorSensor.h"
+	"Alarm.h"
+	"Communication.h"
+	"Authenticate.h"
+	"Display.h"
+	"DataLog.h"
+	"keyPad.h"
+	"controlPanel.h"
+
+1487428568 c:\users\khaled\documents\academics\university\acs 223\assignment3\windowsensor.h
+
+1487428564 c:\users\khaled\documents\academics\university\acs 223\assignment3\vibrationsensor.h
+	"WindowSensor.h"
+
+1487428564 c:\users\khaled\documents\academics\university\acs 223\assignment3\magneticsensor.h
+	"WindowSensor.h"
+
+1486449924 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\doorsensor.h
+	<string>
+
+1486449926 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\garagedoorsensor.h
+	"DoorSensor.h"
+
+1486449928 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\alarm.h
+
+1486449928 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\communication.h
+	<string>
+
+1486683787 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\authenticate.h
+	<iostream>
+	<string>
+
+1487026947 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\display.h
+	<iostream>
+
+1486450068 c:\users\khaled\documents\academics\university\acs 223\assignment3\headers\datalog.h
+	<iostream>
+
+1487428568 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\alarm.cpp
+	"Alarm.h"
+	<iostream>
+
+1487428568 c:\users\khaled\documents\academics\university\acs 223\assignment3\alarm.h
+
+1487520491 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\authenticate.cpp
+	"Authenticate.h"
+	<iostream>
+
+1487045286 c:\users\khaled\documents\academics\university\acs 223\assignment3\authenticate.h
+	<iostream>
+	<string>
+
+1487428564 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\communication.cpp
+	"Communication.h"
+	<iostream>
+	<string>
+
+1487428564 c:\users\khaled\documents\academics\university\acs 223\assignment3\communication.h
+	<string>
+
+1487524273 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\datalog.cpp
+	"DataLog.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+
+1487053846 c:\users\khaled\documents\academics\university\acs 223\assignment3\datalog.h
+	<iostream>
+
+1487523168 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\display.cpp
+	"Display.h"
+	"iomanip"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1487457886 c:\users\khaled\documents\academics\university\acs 223\assignment3\display.h
+	<iostream>
+
+1487428564 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\doorsensor.cpp
+	"DoorSensor.h"
+	<iostream>
+
+1487428564 c:\users\khaled\documents\academics\university\acs 223\assignment3\doorsensor.h
+
+1487428564 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\garagedoorsensor.cpp
+	"GarageDoorSensor.h"
+	<iostream>
+
+1487428566 c:\users\khaled\documents\academics\university\acs 223\assignment3\garagedoorsensor.h
+	"DoorSensor.h"
+
+1487428564 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\magneticsensor.cpp
+	"MagneticSensor.h"
+
+1487428564 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\vibrationsensor.cpp
+	"VibrationSensor.h"
+
+1487428566 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\windowsensor.cpp
+	"WindowSensor.h"
+	<iostream>
+
+1487526270 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\keypad.cpp
+	"keyPad.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+
+1487525412 c:\users\khaled\documents\academics\university\acs 223\assignment3\keypad.h
+	<string>
+
+1487526578 source:c:\users\khaled\documents\academics\university\acs 223\assignment3\controlpanel.cpp
+	"controlPanel.h"
+	<string>
+
+1487518351 c:\users\khaled\documents\academics\university\acs 223\assignment3\controlpanel.h
+	<iostream>
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\alarm.cpp
+	"Alarm.h"
+	<iostream>
+
+1487499012 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\alarm.h
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\authenticate.cpp
+	"Authenticate.h"
+	<iostream>
+
+1487499012 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\authenticate.h
+	<iostream>
+	<string>
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\communication.cpp
+	"Communication.h"
+	<iostream>
+	<string>
+
+1487499012 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\communication.h
+	<string>
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\controlpanel.cpp
+	"controlPanel.h"
+	<string>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\controlpanel.h
+	<iostream>
+
+1487543463 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\datalog.cpp
+	"DataLog.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+
+1487429914 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\datalog.h
+	<iostream>
+
+1487499014 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\display.cpp
+	"Display.h"
+	"iomanip"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\display.h
+	<iostream>
+
+1487499014 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\doorsensor.cpp
+	"DoorSensor.h"
+	<iostream>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\doorsensor.h
+
+1487499014 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\garagedoorsensor.cpp
+	"GarageDoorSensor.h"
+	<iostream>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\garagedoorsensor.h
+	"DoorSensor.h"
+
+1487499018 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\magneticsensor.cpp
+	"MagneticSensor.h"
+
+1487499016 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\magneticsensor.h
+	"WindowSensor.h"
+
+1487499018 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\windowsensor.h
+
+1487499018 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\vibrationsensor.cpp
+	"VibrationSensor.h"
+
+1487499018 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\vibrationsensor.h
+	"WindowSensor.h"
+
+1487499016 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\windowsensor.cpp
+	"WindowSensor.h"
+	<iostream>
+
+1487546875 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\keypad.cpp
+	"keyPad.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+
+1487545849 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\keypad.h
+	<string>
+
+1487547967 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.2\main.cpp
+	<string>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<iostream>
+	"WindowSensor.h"
+	"VibrationSensor.h"
+	"MagneticSensor.h"
+	"DoorSensor.h"
+	"GarageDoorSensor.h"
+	"Alarm.h"
+	"Communication.h"
+	"Authenticate.h"
+	"Display.h"
+	"DataLog.h"
+	"keyPad.h"
+	"controlPanel.h"
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\alarm.cpp
+	"Alarm.h"
+	<iostream>
+
+1487499012 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\alarm.h
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\authenticate.cpp
+	"Authenticate.h"
+	<iostream>
+
+1487499012 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\authenticate.h
+	<iostream>
+	<string>
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\communication.cpp
+	"Communication.h"
+	<iostream>
+	<string>
+
+1487499012 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\communication.h
+	<string>
+
+1487499012 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\controlpanel.cpp
+	"controlPanel.h"
+	<string>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\controlpanel.h
+	<iostream>
+
+1487499014 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\display.cpp
+	"Display.h"
+	"iomanip"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\display.h
+	<iostream>
+
+1487499014 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\doorsensor.cpp
+	"DoorSensor.h"
+	<iostream>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\doorsensor.h
+
+1487499014 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\garagedoorsensor.cpp
+	"GarageDoorSensor.h"
+	<iostream>
+
+1487499014 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\garagedoorsensor.h
+	"DoorSensor.h"
+
+1487601526 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\keypad.cpp
+	"keyPad.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+
+1487545849 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\keypad.h
+	<string>
+
+1487499018 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\magneticsensor.cpp
+	"MagneticSensor.h"
+
+1487499016 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\magneticsensor.h
+	"WindowSensor.h"
+
+1487499018 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\windowsensor.h
+
+1487601526 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\main.cpp
+	<string>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<iostream>
+	"WindowSensor.h"
+	"VibrationSensor.h"
+	"MagneticSensor.h"
+	"DoorSensor.h"
+	"GarageDoorSensor.h"
+	"Alarm.h"
+	"Communication.h"
+	"Authenticate.h"
+	"Display.h"
+	"DataLog.h"
+	"keyPad.h"
+	"controlPanel.h"
+
+1487499018 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\vibrationsensor.h
+	"WindowSensor.h"
+
+1487429914 \\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\datalog.h
+	<iostream>
+
+1487499018 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\vibrationsensor.cpp
+	"VibrationSensor.h"
+
+1487499016 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\windowsensor.cpp
+	"WindowSensor.h"
+	<iostream>
+
+1487548698 source:\\studata05\home\co\coa15jrc\manwin\my documents\final burglar\final v1.33333\datalog.cpp
+	"DataLog.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+
+1487572946 source:c:\acse\2 semester\acs223\group project\final v1.400001\alarm.cpp
+	"Alarm.h"
+	<iostream>
+
+1487572946 c:\acse\2 semester\acs223\group project\final v1.400001\alarm.h
+
+1487572946 source:c:\acse\2 semester\acs223\group project\final v1.400001\authenticate.cpp
+	"Authenticate.h"
+	<iostream>
+
+1487572946 c:\acse\2 semester\acs223\group project\final v1.400001\authenticate.h
+	<iostream>
+	<string>
+
+1487572946 source:c:\acse\2 semester\acs223\group project\final v1.400001\communication.cpp
+	"Communication.h"
+	<iostream>
+	<string>
+
+1487572946 c:\acse\2 semester\acs223\group project\final v1.400001\communication.h
+	<string>
+
+1487572946 source:c:\acse\2 semester\acs223\group project\final v1.400001\controlpanel.cpp
+	"controlPanel.h"
+	<string>
+
+1487572948 c:\acse\2 semester\acs223\group project\final v1.400001\controlpanel.h
+	<iostream>
+
+1487572948 source:c:\acse\2 semester\acs223\group project\final v1.400001\datalog.cpp
+	"DataLog.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<stdlib.h>
+
+1487572948 c:\acse\2 semester\acs223\group project\final v1.400001\datalog.h
+	<iostream>
+
+1487637582 source:c:\acse\2 semester\acs223\group project\final v1.400001\display.cpp
+	"Display.h"
+	"iomanip"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1487572948 c:\acse\2 semester\acs223\group project\final v1.400001\display.h
+	<iostream>
+
+1487639800 source:c:\acse\2 semester\acs223\group project\final v1.400001\doorsensor.cpp
+	"DoorSensor.h"
+	<iostream>
+
+1487639761 c:\acse\2 semester\acs223\group project\final v1.400001\doorsensor.h
+
+1487643293 source:c:\acse\2 semester\acs223\group project\final v1.400001\garagedoorsensor.cpp
+	"GarageDoorSensor.h"
+	<iostream>
+
+1487626077 c:\acse\2 semester\acs223\group project\final v1.400001\garagedoorsensor.h
+	"DoorSensor.h"
+
+1487572948 source:c:\acse\2 semester\acs223\group project\final v1.400001\keypad.cpp
+	"keyPad.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+
+1487572950 c:\acse\2 semester\acs223\group project\final v1.400001\keypad.h
+	<string>
+
+1487572950 source:c:\acse\2 semester\acs223\group project\final v1.400001\magneticsensor.cpp
+	"MagneticSensor.h"
+
+1487572950 c:\acse\2 semester\acs223\group project\final v1.400001\magneticsensor.h
+	"WindowSensor.h"
+
+1487639698 c:\acse\2 semester\acs223\group project\final v1.400001\windowsensor.h
+
+1487645491 source:c:\acse\2 semester\acs223\group project\final v1.400001\main.cpp
+	<string>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<iostream>
+	"WindowSensor.h"
+	"VibrationSensor.h"
+	"MagneticSensor.h"
+	"DoorSensor.h"
+	"GarageDoorSensor.h"
+	"Alarm.h"
+	"Communication.h"
+	"Authenticate.h"
+	"Display.h"
+	"DataLog.h"
+	"keyPad.h"
+	"controlPanel.h"
+
+1487572950 c:\acse\2 semester\acs223\group project\final v1.400001\vibrationsensor.h
+	"WindowSensor.h"
+
+1487572950 source:c:\acse\2 semester\acs223\group project\final v1.400001\vibrationsensor.cpp
+	"VibrationSensor.h"
+
+1487639736 source:c:\acse\2 semester\acs223\group project\final v1.400001\windowsensor.cpp
+	"WindowSensor.h"
+	<iostream>
+
+1487617818 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\alarm.cpp
+	"Alarm.h"
+	<iostream>
+
+1487617818 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\alarm.h
+
+1487617818 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\authenticate.cpp
+	"Authenticate.h"
+	<iostream>
+
+1487617818 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\authenticate.h
+	<iostream>
+	<string>
+
+1487617818 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\communication.cpp
+	"Communication.h"
+	<iostream>
+	<string>
+
+1487617818 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\communication.h
+	<string>
+
+1487617818 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\controlpanel.cpp
+	"controlPanel.h"
+	<string>
+
+1487617820 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\controlpanel.h
+	<iostream>
+
+1487617820 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\garagedoorsensor.cpp
+	"GarageDoorSensor.h"
+	<iostream>
+
+1487617820 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\garagedoorsensor.h
+	"DoorSensor.h"
+
+1487690928 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\doorsensor.h
+
+1487617822 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\keypad.cpp
+	"keyPad.h"
+	<iostream>
+	<string>
+	<windows.h>
+	<ctime>
+
+1487617822 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\keypad.h
+	<string>
+
+1487617824 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\magneticsensor.cpp
+	"MagneticSensor.h"
+
+1487617824 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\magneticsensor.h
+	"WindowSensor.h"
+
+1487617824 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\windowsensor.h
+
+1487617824 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\vibrationsensor.cpp
+	"VibrationSensor.h"
+
+1487617824 c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\vibrationsensor.h
+	"WindowSensor.h"
+
+1487617824 source:c:\acse\2 semester\acs223\group project\final v1.f(iv)e-20170222t000209z\final v1.f(iv)e\windowsensor.cpp
+	"WindowSensor.h"
+	<iostream>
+

@@ -1,0 +1,38 @@
+12:00     System deactivated at 
+12:00     Remote controller signal received
+12:00     Garage alarm system deactivated
+12:00     Garage doors are open
+12:00     Sensor ID=141 is triggered. Alarm activated
+12:00     System deactivated at 
+12:01     Time has been changed from 12:00 to 12:01
+12:01     Remote controller signal received
+12:01     Garage alarm system deactivated
+12:01     Garage doors are open
+12:01     System deactivated at 
+12:01     Remote controller signal received
+12:01     Garage alarm system activated
+12:01     Garage doors are closed
+12:00     Remote controller signal received
+12:00     Garage alarm system activated
+12:00     Garage doors are closed
+12:00     Remote controller signal received
+12:00     Garage alarm system deactivated
+12:00     Garage doors are open
+12:00     Remote controller signal received
+12:00     Garage alarm system activated
+12:00     Garage doors are closed
+12:00     System deactivated at 
+12:00     Remote controller signal received
+12:00     Garage alarm system activated
+12:00     Garage doors are closed
+12:00     Sensor ID=141 is triggered. Alarm activated
+12:00     System deactivated at 
+02:02     System deactivated at 
+02:02     System deactivated at 
+02:54     Remote controller signal received
+02:54     Garage alarm system deactivated
+02:54     Garage doors are open
+02:54     System deactivated at 
+02:55     Sensor ID=121 is triggered. Alarm activated
+02:55     System deactivated at 
+02:59     System deactivated at 

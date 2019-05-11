@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="assignment3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/assignment3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../assignment3" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/assignment3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../assignment3" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Alarm.cpp" />
+		<Unit filename="Alarm.h" />
+		<Unit filename="Authenticate.cpp" />
+		<Unit filename="Authenticate.h" />
+		<Unit filename="Communication.cpp" />
+		<Unit filename="Communication.h" />
+		<Unit filename="DataLog.cpp" />
+		<Unit filename="DataLog.h" />
+		<Unit filename="Display.cpp" />
+		<Unit filename="Display.h" />
+		<Unit filename="DoorSensor.cpp" />
+		<Unit filename="DoorSensor.h" />
+		<Unit filename="GarageDoorSensor.cpp" />
+		<Unit filename="GarageDoorSensor.h" />
+		<Unit filename="MagneticSensor.cpp" />
+		<Unit filename="MagneticSensor.h" />
+		<Unit filename="VibrationSensor.cpp" />
+		<Unit filename="VibrationSensor.h" />
+		<Unit filename="WindowSensor.cpp" />
+		<Unit filename="WindowSensor.h" />
+		<Unit filename="controlPanel.cpp" />
+		<Unit filename="controlPanel.h" />
+		<Unit filename="keyPad.cpp" />
+		<Unit filename="keyPad.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
